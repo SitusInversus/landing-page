@@ -1,10 +1,10 @@
-This Project is being made to pratice my css&html and git version control
-I am given a picture of the target layout and some information regarding attributes
+
+Attempt to rebuild a page of website example given by "The Odin-Project"
 
 Step 1: layout
 
 General Structure:
-    5 Partitions
+    5 Parts
      1# Headers+Text+image
      2# Text+image with subtext
      3# Quote with author
